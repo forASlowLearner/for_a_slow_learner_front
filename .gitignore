@@ -1,0 +1,10 @@
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Build output
+build/
+dist/
+
+# macOS files
+.DS_Store
